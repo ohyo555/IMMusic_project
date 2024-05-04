@@ -4,6 +4,8 @@
 <c:set var="pageTitle" value="CONTACT US"></c:set>
 <%@ include file="../common/head.jspf"%> 
 
+<!-- test -->
+
 <style>
 section {
 	margin: 30px 0 200px 0;
