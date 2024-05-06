@@ -1,6 +1,10 @@
 ## <img style="width: 22px; height: 22px;" src="https://github.com/ohyo555/IMMusic_project/assets/153146836/5fb3f3f5-6540-41a2-a5ae-a7e7f769909a"/> IMMusic&Art
 
+<br/>
+
 #### 주제: 음악 소속사 홈페이지
+<hr>
+
 ![IMMusic main](https://github.com/ohyo555/IMMusic_project/assets/153146836/9b012772-8584-443f-bcff-1dd4e103f7cd)
 ![1](https://github.com/ohyo555/IMMusic_project/assets/153146836/407b095c-a69c-477d-adb8-55e0eb4557ed)
 
